@@ -1,3 +1,4 @@
 # LabBlueprints
-management of Lab Drawings for help on setup the workspace
+
+A set of CAD drawings to help planning and reorganizing the lab workspace
 
